@@ -1,2 +1,2 @@
-# knowloft
+# Knowloft
 An E-Learning platform.
